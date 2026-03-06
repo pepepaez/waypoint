@@ -1,0 +1,507 @@
+[
+  {
+    "url": "https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/4",
+    "title": "Raspberry Pi Getting Started",
+    "tags": ["raspberry-pi", "setup", "tutorial"]
+  },
+  {
+    "url": "https://github.com/judahpaul16/gpt-home?tab=readme-ov-file",
+    "title": "GPT Home — ChatGPT on Raspberry Pi",
+    "tags": ["raspberry-pi", "ai", "smart-home", "chatgpt"]
+  },
+  {
+    "url": "https://www.docker.com/products/docker-desktop/",
+    "title": "Docker Desktop",
+    "tags": ["docker", "dev-tools", "containers"]
+  },
+  {
+    "url": "https://www.brow.sh/",
+    "title": "Browsh — Text-Based Browser for Terminal",
+    "tags": ["terminal", "browser", "open-source", "low-bandwidth"]
+  },
+  {
+    "url": "https://theportalwiki.com/wiki/Portal_2_soundtrack#Sound_Effects",
+    "title": "Portal 2 Soundtrack & Sound Effects",
+    "tags": ["gaming", "audio", "portal"]
+  },
+  {
+    "url": "https://github.com/simstudioai/sim",
+    "title": "Sim Studio — AI Agent Workflow Builder",
+    "tags": ["ai", "agents", "workflow", "open-source"]
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=0yHzJ-mX970",
+    "title": "3 Simple Blues Harmonica Riffs",
+    "tags": ["harmonica", "music", "tutorial", "blues"]
+  },
+  {
+    "url": "https://www.ti.com/technologies/wired-wireless-connectivity/zigbee/overview.html",
+    "title": "Zigbee Overview — Texas Instruments",
+    "tags": ["iot", "smart-home", "zigbee", "hardware"]
+  },
+  {
+    "url": "https://www.home-assistant.io/",
+    "title": "Home Assistant",
+    "tags": ["iot", "smart-home", "home-assistant", "self-hosted"]
+  },
+  {
+    "url": "https://www.kitameraki.com/post/staying-ahead-of-the-game-how-food-manufacturers-are-utilizing-technology-to-stay-on-top",
+    "title": "AI & Technology in Food Manufacturing",
+    "tags": ["food-manufacturing", "technology", "digital-transformation", "article"]
+  },
+  {
+    "url": "https://platformengineering.org/blog/how-general-electric-burned-7-billion-on-their-platform",
+    "title": "How GE Burned $7B on Their Platform",
+    "tags": ["platform-engineering", "case-study", "devops", "enterprise-failure"]
+  },
+  {
+    "url": "https://aider.chat/",
+    "title": "Aider — AI Pair Programming in Terminal",
+    "tags": ["ai-coding", "dev-tools", "open-source", "pair-programming"]
+  },
+  {
+    "url": "https://shell.duckdb.org/",
+    "title": "DuckDB Shell (Browser)",
+    "tags": ["data", "sql", "duckdb", "analytics"]
+  },
+  {
+    "url": "https://pola.rs/",
+    "title": "Polars — High-Performance DataFrames",
+    "tags": ["data-engineering", "rust", "dataframes", "open-source"]
+  },
+  {
+    "url": "https://duckdb.org/",
+    "title": "DuckDB — In-Process SQL OLAP Database",
+    "tags": ["data", "sql", "database", "analytics"]
+  },
+  {
+    "url": "https://www.littlemissdata.com/blog/prettytables",
+    "title": "Stylish Tables in R with formattable",
+    "tags": ["r-programming", "data-visualization", "tutorial", "tables"]
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/XGBoost",
+    "title": "XGBoost — Gradient Boosting",
+    "tags": ["machine-learning", "algorithms", "xgboost"]
+  },
+  {
+    "url": "https://support.posit.co/hc/en-us/articles/360049776974-Using-RStudio-Server-in-Windows-WSL2",
+    "title": "RStudio Server in Windows WSL2",
+    "tags": ["r-programming", "wsl", "linux", "dev-tools"]
+  },
+  {
+    "url": "https://github.com/coder/code-server",
+    "title": "code-server — VS Code in the Browser",
+    "tags": ["vscode", "remote-development", "open-source", "ide"]
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=w4aiW_ZFp80",
+    "title": "Intro to Wing Chun Wooden Dummy — Beginner Drills",
+    "tags": ["wing-chun", "martial-arts", "tutorial"]
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=kHmTlk-L8O8",
+    "title": "Sifu Francis Fong — Wing Chun",
+    "tags": ["wing-chun", "martial-arts"]
+  },
+  {
+    "url": "https://www.dragoninst.com/online/",
+    "title": "Wing Chun Online Course & Certification",
+    "tags": ["wing-chun", "martial-arts", "course"]
+  },
+  {
+    "url": "https://www.youtube.com/shorts/NyGKtw5AoEc",
+    "title": "Wing Chun Wooden Dummy Demo (Slow Motion)",
+    "tags": ["wing-chun", "martial-arts"]
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=4zMmbgOLHRg",
+    "title": "Amazing Tai Chi Master",
+    "tags": ["tai-chi", "martial-arts"]
+  },
+  {
+    "url": "http://taijihawaii.com/Taiji.html",
+    "title": "Taiji Hawaii",
+    "tags": ["tai-chi", "martial-arts", "reference"]
+  },
+  {
+    "url": "http://taijimax.com/tag/li-zhanying/",
+    "title": "Li Zhanying — Tai Chi Master",
+    "tags": ["tai-chi", "martial-arts"]
+  },
+  {
+    "url": "https://login.tailscale.com/admin/machines",
+    "title": "Tailscale Admin — Machines",
+    "tags": ["vpn", "networking", "tailscale", "remote-access"]
+  },
+  {
+    "url": "https://pikvm.org/",
+    "title": "PiKVM — KVM over IP (Raspberry Pi)",
+    "tags": ["kvm", "remote-management", "raspberry-pi", "open-source"]
+  },
+  {
+    "url": "https://my.zerotier.com/network/363c67c55ab9721f",
+    "title": "ZeroTier Network",
+    "tags": ["vpn", "networking", "zerotier", "remote-access"]
+  },
+  {
+    "url": "https://earthquake.usgs.gov/earthquakes/map/",
+    "title": "USGS Latest Earthquakes Map",
+    "tags": ["science", "earthquake", "maps", "real-time"]
+  },
+  {
+    "url": "http://en.wikibooks.org/wiki/Hindi/Everyday_Phrases",
+    "title": "Hindi Everyday Phrases",
+    "tags": ["language", "hindi", "reference"]
+  },
+  {
+    "url": "http://algebrarules.com/",
+    "title": "Algebra Rules — Quick Reference",
+    "tags": ["math", "algebra", "education", "reference"]
+  },
+  {
+    "url": "http://legacysurvey.org/viewer",
+    "title": "DECaLS Sky Survey Viewer",
+    "tags": ["astronomy", "sky-survey", "data-visualization", "research"]
+  },
+  {
+    "url": "http://www.einstein.caltech.edu/",
+    "title": "Einstein Papers Project at Caltech",
+    "tags": ["physics", "einstein", "academic-archive", "caltech"]
+  },
+  {
+    "url": "https://science.nasa.gov/mission/msl-curiosity/",
+    "title": "NASA Curiosity Mars Rover",
+    "tags": ["mars", "nasa", "space-exploration", "curiosity-rover"]
+  },
+  {
+    "url": "https://firms2.modaps.eosdis.nasa.gov/",
+    "title": "NASA FIRMS — Fire Information Map",
+    "tags": ["nasa", "wildfire", "satellite-data", "earth-observation"]
+  },
+  {
+    "url": "https://www.r-graph-gallery.com/index.html",
+    "title": "R Graph Gallery",
+    "tags": ["r-programming", "data-visualization", "charts", "reference"]
+  },
+  {
+    "url": "https://www.rstudio.com/resources/cheatsheets/",
+    "title": "RStudio Cheatsheets",
+    "tags": ["r-programming", "cheatsheets", "reference"]
+  },
+  {
+    "url": "https://gt.rstudio.com/index.html",
+    "title": "gt — Presentation-Ready Tables for R",
+    "tags": ["r-programming", "data-visualization", "tables", "open-source"]
+  },
+  {
+    "url": "https://regex101.com/",
+    "title": "Regex101 — Online Regex Tester",
+    "tags": ["regex", "dev-tools", "testing"]
+  },
+  {
+    "url": "https://ihateregex.io/",
+    "title": "I Hate Regex — Visual Regex Cheat Sheet",
+    "tags": ["regex", "dev-tools", "cheat-sheet", "reference"]
+  },
+  {
+    "url": "https://formulae.brew.sh/",
+    "title": "Homebrew Formulae",
+    "tags": ["macos", "homebrew", "packages"]
+  },
+  {
+    "url": "https://search.nixos.org/packages",
+    "title": "NixOS Package Search",
+    "tags": ["nix", "linux", "packages"]
+  },
+  {
+    "url": "https://macos-defaults.com/",
+    "title": "macOS Defaults List",
+    "tags": ["macos", "settings", "reference"]
+  },
+  {
+    "url": "https://morsecode.world/",
+    "title": "Morse Code World — Interactive Learning",
+    "tags": ["morse-code", "education", "interactive", "learning"]
+  },
+  {
+    "url": "https://www.brickeconomy.com/",
+    "title": "BrickEconomy — LEGO Price Tracking & Values",
+    "tags": ["lego", "price-tracking", "collectibles", "market-data"]
+  },
+  {
+    "url": "https://weatherspark.com/",
+    "title": "WeatherSpark — Climate Data Visualization",
+    "tags": ["weather", "climate-data", "visualization", "travel"]
+  },
+  {
+    "url": "https://radio.garden/browse",
+    "title": "Radio Garden — World Radio on a Globe",
+    "tags": ["radio", "streaming", "music", "globe"]
+  },
+  {
+    "url": "https://drivetexas.org/",
+    "title": "DriveTexas — Road Conditions",
+    "tags": ["texas", "traffic", "road-conditions"]
+  },
+  {
+    "url": "https://digitalcollections.briscoecenter.org/bexar",
+    "title": "Bexar Archives — Briscoe Center",
+    "tags": ["texas", "history", "san-antonio", "archive"]
+  },
+  {
+    "url": "https://worldsfair68.info/",
+    "title": "HemisFair '68 Archive",
+    "tags": ["history", "world-fair", "san-antonio", "archive"]
+  },
+  {
+    "url": "https://voyager.meltzerhellrung.com/",
+    "title": "Voyager — Meltzer Hellrung Client Portal",
+    "tags": ["legal", "client-portal", "immigration"]
+  },
+  {
+    "url": "https://drinkfreespirits.com/",
+    "title": "Free Spirits — Non-Alcoholic Spirits",
+    "tags": ["non-alcoholic", "beverages", "cocktails"]
+  },
+  {
+    "url": "https://www.duolingo.com/u/477132305",
+    "title": "Duolingo — Portuguese",
+    "tags": ["language", "portuguese", "learning"]
+  },
+  {
+    "url": "https://github.com/FBarrca/obsidian-handwritten-notes",
+    "title": "Obsidian Handwritten Notes Plugin",
+    "tags": ["obsidian", "plugin", "handwriting"]
+  },
+  {
+    "url": "https://masscode.io/",
+    "title": "massCode — Code Snippets Manager",
+    "tags": ["dev-tools", "code-snippets", "open-source", "productivity"]
+  },
+  {
+    "url": "https://gitlab.com/CalcProgrammer1/OpenRGB",
+    "title": "OpenRGB — RGB Lighting Control",
+    "tags": ["open-source", "rgb-lighting", "hardware", "utility"]
+  },
+  {
+    "url": "https://www.json-generator.com/",
+    "title": "JSON Generator — Random Test Data",
+    "tags": ["dev-tools", "json", "data-generation", "web-tool"]
+  },
+  {
+    "url": "https://www.emergentmind.com/",
+    "title": "Emergent Mind — Trending AI Research Papers",
+    "tags": ["ai-research", "papers", "arxiv", "machine-learning"]
+  },
+  {
+    "url": "https://www.leewayhertz.com/build-a-gpt-model/",
+    "title": "How to Build a GPT Model",
+    "tags": ["ai", "gpt", "tutorial", "machine-learning"]
+  },
+  {
+    "url": "https://www.udacity.com/course/deep-learning--ud730",
+    "title": "Deep Learning Course — Udacity",
+    "tags": ["machine-learning", "deep-learning", "course"]
+  },
+  {
+    "url": "https://www.tensorflow.org/",
+    "title": "TensorFlow",
+    "tags": ["machine-learning", "tensorflow", "python"]
+  },
+  {
+    "url": "https://medium.com/@penguinrandomus/how-to-write-a-novel-and-keep-your-day-job-2cd9b520fe0",
+    "title": "How to Write a Novel and Keep Your Day Job",
+    "tags": ["writing", "novel", "tips"]
+  },
+  {
+    "url": "http://www.playwriting101.com/",
+    "title": "Playwriting 101",
+    "tags": ["writing", "playwriting", "course"]
+  },
+  {
+    "url": "http://zenhabits.net/",
+    "title": "Zen Habits — Simplicity & Mindful Living",
+    "tags": ["personal-development", "habits", "minimalism", "mindfulness"]
+  },
+  {
+    "url": "https://syncthing.net/downloads/",
+    "title": "Syncthing — File Sync",
+    "tags": ["file-sync", "open-source", "self-hosted", "cross-platform"]
+  },
+  {
+    "url": "https://mrchromebox.tech/#fwscript",
+    "title": "MrChromebox — Custom Chromebook Firmware",
+    "tags": ["chromebook", "firmware", "linux", "hardware-hacking"]
+  },
+  {
+    "url": "https://docs.microsoft.com/en-us/windows/wsl/install-win10",
+    "title": "Install WSL on Windows",
+    "tags": ["windows", "wsl", "linux", "setup"]
+  },
+  {
+    "url": "https://www.bankofamerica.com/",
+    "title": "Bank of America",
+    "tags": ["banking", "finance", "personal"]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/office/dev/scripts/tutorials/excel-tutorial",
+    "title": "Office Scripts Tutorial — Excel",
+    "tags": ["microsoft", "excel", "tutorial", "scripting"]
+  },
+  {
+    "url": "https://www.garyvaynerchuk.com/how-to-create-64-pieces-of-content-in-a-day/",
+    "title": "Create 64 Pieces of Content in a Day",
+    "tags": ["content-marketing", "social-media", "entrepreneurship", "strategy"]
+  },
+  {
+    "url": "http://www.yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/",
+    "title": "Octalysis — Complete Gamification Framework",
+    "tags": ["gamification", "behavioral-design", "ux", "framework"]
+  },
+  {
+    "url": "https://www.mathcha.io/",
+    "title": "Mathcha — Online Math Editor",
+    "tags": ["math", "editor", "latex", "education"]
+  },
+  {
+    "url": "https://workmanlayout.org/",
+    "title": "Workman Keyboard Layout",
+    "tags": ["keyboard-layout", "ergonomics", "typing", "productivity"]
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=f5jGX9A6ErA",
+    "title": "Whiskey Blues — Music",
+    "tags": ["music", "blues"]
+  },
+  {
+    "url": "https://www.linkedin.com/learning/mindfulness-practices/becoming-mindful-at-work",
+    "title": "Becoming Mindful at Work — LinkedIn Learning",
+    "tags": ["mindfulness", "professional-development", "online-course", "wellness"]
+  },
+  {
+    "url": "https://account.microsoft.com/family/",
+    "title": "Microsoft Family Safety",
+    "tags": ["parenting", "safety", "microsoft"]
+  },
+  {
+    "url": "https://parents.amazon.com/",
+    "title": "Amazon Parent Dashboard",
+    "tags": ["parenting", "safety", "amazon"]
+  },
+  {
+    "url": "https://families.google.com/families",
+    "title": "Google Families",
+    "tags": ["parenting", "safety", "google"]
+  },
+  {
+    "url": "https://arise-game.com/",
+    "title": "Arise — A Simple Story (Adventure Game)",
+    "tags": ["video-game", "adventure", "indie", "narrative"]
+  },
+  {
+    "url": "https://generated.photos/",
+    "title": "Generated Photos — AI Synthetic Faces",
+    "tags": ["ai", "synthetic-media", "stock-photos", "faces"]
+  },
+  {
+    "url": "http://www.metmuseum.org/about-the-met/policies-and-documents/image-resources",
+    "title": "Met Museum — Open Access Image Resources",
+    "tags": ["museum", "open-access", "public-domain", "art"]
+  },
+  {
+    "url": "https://www.penguinmagic.com/p/14975",
+    "title": "Lennart Green — Arrangements (Card Magic)",
+    "tags": ["magic", "card-tricks", "tutorial", "shopping"]
+  },
+  {
+    "url": "https://www.fatherly.com/play/math-jokes-and-math-puns/",
+    "title": "Math Jokes & Puns for Kids",
+    "tags": ["humor", "math", "kids", "parenting"]
+  },
+  {
+    "url": "https://www.rd.com/list/short-jokes/",
+    "title": "105 Short Jokes — Reader's Digest",
+    "tags": ["humor", "jokes", "entertainment"]
+  },
+  {
+    "url": "https://ais.usvisa-info.com/es-mx/niv/users/sign_in",
+    "title": "US Visa Appointment — Mexico",
+    "tags": ["visa", "travel", "mexico"]
+  },
+  {
+    "url": "http://www.nytimes.com/2014/04/06/magazine/flash-boys-michael-lewis.html",
+    "title": "Flash Boys — Michael Lewis (NYT)",
+    "tags": ["finance", "high-frequency-trading", "journalism", "books"]
+  },
+  {
+    "url": "https://opensource.builders/",
+    "title": "Opensource Builders — Open Source Alternatives Directory",
+    "tags": ["open-source", "alternatives", "software-directory"]
+  },
+  {
+    "url": "https://github.com/louischatriot/nedb",
+    "title": "NeDB — Embedded JavaScript Database",
+    "tags": ["database", "javascript", "nodejs", "open-source"]
+  },
+  {
+    "url": "https://portal.neisd.net/OnlineRegistration/default.aspx",
+    "title": "NEISD Registration",
+    "tags": ["school", "registration", "san-antonio"]
+  },
+  {
+    "url": "https://messages.google.com/web/u/1/conversations",
+    "title": "Google Messages (Web)",
+    "tags": ["messaging", "google"]
+  },
+  {
+    "url": "http://www.popsci.com/neil-degrasse-tyson-doubles-down-on-rationalia",
+    "title": "Neil deGrasse Tyson on Rationalia — Popular Science",
+    "tags": ["science", "politics", "opinion", "culture"]
+  },
+  {
+    "url": "https://www.texasibschools.org/members",
+    "title": "Texas IB Schools",
+    "tags": ["education", "international-baccalaureate", "texas"]
+  },
+  {
+    "url": "https://www.investopedia.com/insurance/20-ways-use-your-flexible-spending-account/",
+    "title": "20 Ways to Use Your FSA",
+    "tags": ["personal-finance", "insurance", "healthcare", "fsa"]
+  },
+  {
+    "url": "https://itnext.io/how-to-create-interactive-terminal-like-website-888bb0972288",
+    "title": "Build an Interactive Terminal-Like Website",
+    "tags": ["javascript", "tutorial", "terminal", "web-development"]
+  },
+  {
+    "url": "https://www.digitalocean.com/community/tutorials/how-to-connect-to-your-droplet-with-ssh",
+    "title": "DigitalOcean — SSH to Droplet",
+    "tags": ["linux", "ssh", "server", "tutorial"]
+  },
+  {
+    "url": "https://linuxize.com/post/how-to-change-hostname-on-ubuntu-18-04/",
+    "title": "Change Hostname on Ubuntu",
+    "tags": ["linux", "ubuntu", "sysadmin"]
+  },
+  {
+    "url": "https://www.rosehosting.com/blog/7-useful-sftp-command-line-examples/",
+    "title": "7 Useful SFTP Commands",
+    "tags": ["linux", "sftp", "cli", "reference"]
+  },
+  {
+    "url": "http://rmarkdown.rstudio.com/flexdashboard/",
+    "title": "flexdashboard — Interactive R Dashboards",
+    "tags": ["r-programming", "dashboards", "data-visualization"]
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=D7U8zJfI3j8",
+    "title": "Templar Oracles — Perfect Pitch",
+    "tags": ["music", "pitch", "performance"]
+  },
+  {
+    "url": "https://pikvm.org/",
+    "title": "PiKVM — KVM over IP (Raspberry Pi)",
+    "tags": ["kvm", "remote-management", "raspberry-pi", "open-source"]
+  }
+]
